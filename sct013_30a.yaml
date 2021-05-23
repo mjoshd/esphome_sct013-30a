@@ -1,5 +1,5 @@
+# https://esphome.io/guides/configuration-types.html#substitutions
 substitutions:
-  # https://esphome.io/guides/configuration-types.html#substitutions
   device_name: sct013_30a
   friendly_name: SCT013 30A
   # static_ip: !secret sct013_30a_ip
